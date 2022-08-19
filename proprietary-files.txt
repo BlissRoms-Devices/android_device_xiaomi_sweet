@@ -538,5 +538,4 @@ vendor/firmware/vehicle_dacia_RTP.bin
 vendor/firmware/vehicle_moto_RTP.bin
 vendor/firmware/vehicle_plane_RTP.bin
 
-# WLAN
--vendor/bin/cnss-daemon
+
